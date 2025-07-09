@@ -7,7 +7,7 @@ A simple **Flutter mobile app** that allows users to create posters by combining
 ## 🚀 Features
 
 - 🖌️ Add and customize text on posters
-- 🖼️ Display static image as background
+- 🖼️ Display static image
 - 🎨 Custom fonts and styling (bold, italic, etc.)
 - 📱 Responsive layout for different screen sizes
 
