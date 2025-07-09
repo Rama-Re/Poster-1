@@ -1,16 +1,40 @@
-# poster
+# 🖼️ Poster App
 
-A new Flutter project.
+A simple **Flutter mobile app** that allows users to create posters by combining images and text. Designed for experimentation and learning purposes, focusing on UI layout, font styling, and asset management in Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🖌️ Add and customize text on posters
+- 🖼️ Display static image as background
+- 🎨 Custom fonts and styling (bold, italic, etc.)
+- 📱 Responsive layout for different screen sizes
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+> ![IMG_20230830_135216](https://github.com/user-attachments/assets/6670ebd2-b570-4636-a9bb-6ee14dbfe6ef)
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** (Dart)
+- **Custom Fonts**
+- **Asset Images**
+
+---
+
+## 📦 Installation
+
+To run the project locally:
+
+```bash
+git clone https://github.com/Rama-Re/Poster-1.git
+cd Poster-1
+flutter pub get
+flutter run
